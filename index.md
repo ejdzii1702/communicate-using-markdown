@@ -7,3 +7,9 @@
 ``` 
 This is a code example...
 ```
+
+### Now I will be creating a list...
+- [x] Go to the shop
+- [x] Chop vegetables for the soup
+- [ ] Make the soup
+- [ ] EAT THE SOUP!!!
